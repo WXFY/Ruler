@@ -6,6 +6,21 @@
 
 **因为自己项目用到的是弧度尺，看到[RuleView](https://github.com/panacena/RuleView)实现直尺思路**
 
+```
+    allprojects {
+		repositories {
+			...
+			maven { url 'https://jitpack.io' }
+		}
+	}
+```
+
+```
+   dependencies {
+	        implementation 'com.github.WXFY:Ruler:v1.0'
+	}
+```
+
 <img src="https://s27.aconvert.com/convert/p3r68-cdx67/rsqfc-3t7jy.gif" width="320" height="600" alt="图例"/>
 
 
