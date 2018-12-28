@@ -1,8 +1,10 @@
 # Ruler
-尺子选择器：弧度尺和横向直尺
+#尺子选择器：弧度尺和横向直尺
 
 
 [![](https://jitpack.io/v/WXFY/Ruler.svg)](https://jitpack.io/#WXFY/Ruler)
+
+**因为自己项目用到的是弧度尺，看到[RuleView](https://github.com/panacena/RuleView)实现直尺思路**
 
 <img src="https://s27.aconvert.com/convert/p3r68-cdx67/rsqfc-3t7jy.gif" width="320" height="600" alt="图例"/>
 
@@ -57,5 +59,3 @@
 
 选中刻度只能在最大值和最小值之间，否则刻度不绘制。
 
-
-**因为自己项目用到的是弧度尺，看到[RuleView](https://github.com/panacena/RuleView)实现直尺思路**
