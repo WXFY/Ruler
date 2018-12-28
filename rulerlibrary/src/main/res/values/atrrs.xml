@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="WeightChoiceView">
+        <attr name="mBgPaintColor" format="color"/>
+        <attr name="mTextPaintColor" format="color"/>
+        <attr name="mTextSize" format="dimension"/>
+        <attr name="mTextSelectSize" format="dimension"/>
+        <attr name="mTextSelectColor" format="color"/>
+        <attr name="min" format="float"/>
+        <attr name="max" format="float"/>
+        <attr name="mSelectorValue" format="float"/>
+        <attr name="spacing" format="float"/>
+        <attr name="arc" format="boolean"/>
+    </declare-styleable>
+</resources>
