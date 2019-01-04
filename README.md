@@ -21,7 +21,7 @@
 	}
 ```
 
-<img src="https://s27.aconvert.com/convert/p3r68-cdx67/rsqfc-3t7jy.gif" width="320" height="600" alt="图例"/>
+<img src="https://github.com/WXFY/Ruler/blob/master/image/image.GIF" width="320" height="600" alt="图例"/>
 
 
 
